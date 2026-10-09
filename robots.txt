@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://superbusinessintelligence.org/sitemap.xml
